@@ -1,0 +1,13 @@
+﻿ID,Skenario,Hasil yang diharapkan,Status pelaksanaan owner,Hasil aktual,Tanggal aktual,Pelaksana,Referensi bukti
+UAT01,Buka HTML di Windows,Lima tab tampil dan Risk Monitoring memuat277 valid56 prioritas,Belum dijalankan,,,,
+UAT02,Filter cari urut dan pindah halaman,Baris dan count mengikuti filter tanpa error,Belum dijalankan,,,,
+UAT03,Lihat evaluasi historis,"Top56 RF44 CPI39, recall23,40% dan batas sintetis jelas",Belum dijalankan,,,,
+UAT04,Impor predictions CSV valid,"Ranking dihitung dari skor valid, metrik historis tetap terpisah",Belum dijalankan,,,,
+UAT05,Impor CSV ID ganda atau skor invalid,"Baris invalid ditolak dengan pesan, data lama tidak hilang saat gagal",Belum dijalankan,,,,
+UAT06,Selesaikan review tanpa bukti,Owner tanggal dan catatan wajib sebelum status review selesai,Belum dijalankan,,,,
+UAT07,Simpan pulihkan dan ekspor review,Catatan tersimpan pada perangkat jika didukung dan CSV dapat dibuka,Belum dijalankan,,,,
+UAT08,Jalankan notebook batch di Colab,Replay menghasilkan280input277valid3fixtureditolak56prioritas,Belum dijalankan,,,,
+UAT09,Periksa paket dan hak sumber,Atribusi tersedia dan tidak ada credential yang dibagikan,Belum dijalankan,,,,
+UAT10,Review studi kasus dan CV,Klaim sesuai simulasi dan bantuan AI dinyatakan,Belum dijalankan,,,,
+UAT11,Periksa tautan distribusi,File Drive dan repository benar benar dapat diakses owner,Belum dijalankan,,,,
+UAT12,Terima handover dengan batas model,Owner mencatat keputusan penerimaan tanpa mengubah G01 otomatis,Belum dijalankan,,,,

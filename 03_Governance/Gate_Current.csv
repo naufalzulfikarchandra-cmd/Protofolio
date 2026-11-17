@@ -1,0 +1,5 @@
+﻿ID,Gate,Status,Bukti,Owner simulasi,PIC aktual,Syarat penerimaan,Sumber
+G01,Kelayakan data dan model,HOLD,Split dan evaluasi tersedia; semantic as of dan freeze belum terbukti.,Data Owner dan Technical Lead,Naufal,Bukti waktu tersedia fitur dan keputusan penggunaan model,Tahap 5 audit dan protocol
+G02,Security dan akses,Belum disetujui,Paket diperiksa sebelum distribusi. Pemeriksaan berkas bukan persetujuan security reviewer.,Security Reviewer,Naufal,"Daftar sumber, hasil pemeriksaan paket dan review owner",Tahap 8 pemeriksaan paket
+G03,Business UAT,Belum diterima,DOM dan mock notebook lulus. Owner Windows UAT belum tercatat.,PM Business User,Naufal,"Checklist UAT dengan hasil, tanggal dan bukti",Tahap 6 verification; checklist Tahap 8
+G04,Readiness dan handover,Menunggu penerimaan owner,Dokumen handover inti dan RAID telah tersimpan di Drive. Distribusi GitHub belum selesai. Unggah berkas bukan approval produksi.,Operations Owner,Naufal,"Berkas final, tautan hasil, runbook dan review klaim",Tahap 8 handover dan log

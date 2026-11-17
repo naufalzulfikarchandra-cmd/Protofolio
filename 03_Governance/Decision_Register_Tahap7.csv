@@ -1,0 +1,6 @@
+﻿id,tanggal_pencatatan_aktual,subjek,keputusan_atau_usulan,status,pemilik_peran,trigger,bukti,batas
+D7-01,2026-11-06,Arah Opsi B,User mengarahkan pemeriksaan data dahulu sebelum retraining,Arah percakapan tercatat. Rencana rinci untuk review,Naufal sebagai owner,Sebelum audit lanjutan,E15,Tidak menandakan audit atau training baru sudah dilakukan
+D7-02,2026-11-06,Status model,Pertahankan G01 HOLD sampai bukti as of diterima,Kontrol sudah berlaku,Owner dengan review Data dan ML simulasi,Sebelum pemakaian operasional,E05 E06,Perubahan tampilan tidak mengubah kelayakan model
+D7-03,2026-11-06,Alat dan kapasitas,HTML sebagai keluaran dashboard dan kapasitas demo 20 persen,Instruksi user tercatat,Naufal sebagai owner,Saat demo dan batch berikutnya,E14,Kapasitas demo bukan komitmen staffing operasional
+D7-04,2026-11-06,Usaha pemeriksaan,Usulan 6 jam Data dan 2 jam PMO. Bruto Rp1050660,Usulan belum menjadi baseline,PMO dan Finance simulasi,Sebelum forecast atau jadwal diubah,E03 dan brief Tahap 7,Rekonsiliasi overlap rework. Tidak ditambahkan otomatis ke EAC
+D7-05,2026-11-06,Penerimaan HTML dan Tahap 7,Lengkapi UAT browser dan review keluaran,Menunggu bukti owner,Naufal sebagai owner,Sebelum G03 dan task Done,E11 E12 E18,Tidak membuat sign off atau hasil review fiktif

@@ -1,0 +1,10 @@
+﻿Event,Tanggal aktual,ID terkait,Perubahan berbasis bukti,Dampak,Sumber
+EV8-01,2026-11-06,R01 I01 A01,"Audit dan model Tahap 5 sudah tersedia, gate tetap HOLD",Temuan as of belum ditutup,Tahap 5 audit dan protocol
+EV8-02,2026-11-06,R02 I03,Hasil terkini RF 44 vs CPI39 pada top56,"Bukan legacy46 vs44, keunggulan belum konklusif",Tahap 5 capacity dan uncertainty
+EV8-03,2026-11-06,D01,HTML menggantikan Power BI atas instruksi user,"Dependency Power BI digantikan, riwayat tidak dihapus",Tahap 6 HTML decision record
+EV8-04,2026-11-06,D02 I05,"Uji DOM dan mock tersedia, UAT owner belum tercatat",Tidak menandai gate lolos,Tahap 6 dan 7 verification
+EV8-05,2026-11-06,I06 A04,Forecast lama dan usulan audit B memiliki kemungkinan overlap,EAC tidak ditambah otomatis,Tahap 7 brief dan budget
+EV8-06,2026-11-06,D03,GitHub terhubung tetapi repo belum tersedia dan browser perlu login,"Unggah GitHub menunggu akses, paket tetap disiapkan",Pemeriksaan akun dan browser
+EV8-07,2026-11-06,R03 I04,User mengotorisasi Tahap 8 beserta Drive GitHub Jira RAID,Batas klaim dan review owner dipertahankan,Instruksi user saat ini
+EV8-08,2026-11-06,D03,Login Google untuk GitHub menampilkan Something went wrong,Tidak mengklaim repository atau unggah GitHub berhasil,Hasil autentikasi browser
+EV8-09,2026-11-06,D02 R03,Dokumen handover inti dan RAID tersimpan di Drive,Ketersediaan berkas tetap terpisah dari penerimaan owner,Hasil unggah dan metadata Google Drive
